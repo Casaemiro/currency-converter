@@ -32,3 +32,6 @@ Follow https://reactnative.dev/blog/2019/11/18/react-native-doctor for more info
 - run `npm react-native run-ios`
 
 ## How to use
+![](assets/images/Screenshot%20from%202023-06-17%2013-09-29.png)
+![](assets/images/Screenshot%20from%202023-06-17%2013-11-00.png)
+![](assets/images/Screenshot%20from%202023-06-17%2013-12-32.png)
